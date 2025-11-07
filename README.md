@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LLH4HAdn)
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Guillet
+- prénom : Alexandre
+- URL Netlify : https://simplesinteractionsalexandreguillet.netlify.app/
 
 # Travail
 
@@ -45,4 +45,4 @@ Les déclarations de variables doivent être précédées de `const` .
 
 Recharger la page et tester le click sur le bouton et les 'H2'.
 
-** Ne pas oublier de "Commit" et "Push" pour rendre ** 
+** Ne pas oublier de "Commit" et "Push" pour rendre **
